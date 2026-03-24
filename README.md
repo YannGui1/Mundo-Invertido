@@ -76,11 +76,3 @@ Este projeto foi desenvolvido como ferramenta educacional para praticar:
 ## 📄 Licença
 
 Projeto construído para fins didáticos.
-
-## 🤝 Contribuições
-
-Este é um projeto educacional. Sinta-se livre para fazer fork, estudar o código e melhorá-lo!
-
----
-
-**Desenvolvido com ❤️ para a DIO**
